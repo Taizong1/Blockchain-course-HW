@@ -276,7 +276,7 @@ const onGetCarInfo = async(carId:number) => {
 
 #### 初始界面
 
-![image-20231103141624976](frontend\image\1.png)
+![image-20231103141624976](https://github.com/Taizong1/ZJU-Blockchain-course-2023/blob/main/frontend/image/1.png)
 
 #### 领取车辆
 
