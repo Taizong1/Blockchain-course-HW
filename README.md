@@ -276,47 +276,47 @@ const onGetCarInfo = async(carId:number) => {
 
 #### 初始界面
 
-![image-20231103141624976](D:\系统默认\桌面\ZJU-blockchain-course-2023-main\frontend\image\1.png)
+![image-20231103141624976](.\frontend\image\1.png)
 
 #### 领取车辆
 
 在未领取过车辆的账号中，点击`领取初始车辆`
 
-![image-20231103141653331](D:\系统默认\桌面\ZJU-blockchain-course-2023-main\frontend\image\2.png)
+![image-20231103141653331](.\frontend\image\2.png)
 
-![image-20231103141814461](D:\系统默认\桌面\ZJU-blockchain-course-2023-main\frontend\image\3.png)
+![image-20231103141814461](.\frontend\image\3.png)
 
-![image-20231103141835101](D:\系统默认\桌面\ZJU-blockchain-course-2023-main\frontend\image\4.png)
+![image-20231103141835101](.\frontend\image\4.png)
 
 #### 租借车辆
 
 点击`可租赁车辆列表`
 
-![image-20231103141934835](D:\系统默认\桌面\ZJU-blockchain-course-2023-main\frontend\image\5.png)
+![image-20231103141934835](.\frontend\image\5.png)
 
 点击一辆可租借车辆，可得车辆信息，输入租赁时间后点击租赁即可
 
-![image-20231103142033185](D:\系统默认\桌面\ZJU-blockchain-course-2023-main\frontend\image\6.png)
+![image-20231103142033185](.\frontend\image\6.png)
 
 #### 查看拥有车辆
 
 点击`当前拥有车辆列表`，列表分为上下两部分，上部分为用户自己的车辆，下部分为租借车辆
 
-![image-20231103142140337](D:\系统默认\桌面\ZJU-blockchain-course-2023-main\frontend\image\7.png)
+![image-20231103142140337](.\frontend\image\7.png)
 
 #### 查看汽车信息
 
 点击汽车图片，即可在上方得到该汽车的拥有者、租借者、借用期限，下图为刚借用的车的信息
 
-![image-20231103142259736](D:\系统默认\桌面\ZJU-blockchain-course-2023-main\frontend\image\8.png)
+![image-20231103142259736](.\frontend\image\8.png)
 
 #### 还车
 
 点击`提前还车`即可将归还借用的车
 
-![image-20231103142401729](D:\系统默认\桌面\ZJU-blockchain-course-2023-main\frontend\image\9.png)
+![image-20231103142401729](.\frontend\image\9.png)
 
-![image-20231103142418880](D:\系统默认\桌面\ZJU-blockchain-course-2023-main\frontend\image\10.png)
+![image-20231103142418880](.\frontend\image\10.png)
 
 ## 参考内容
 
